@@ -1,0 +1,19 @@
+{
+  "name": "react-learning-from-online-source",
+  "version": "1.0.0",
+  "description": "Learning React from http://courses.reactjsprogram.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yjags03/ReactProgram.git"
+  },
+  "author": "Jags",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yjags03/ReactProgram/issues"
+  },
+  "homepage": "https://github.com/yjags03/ReactProgram#readme"
+}
